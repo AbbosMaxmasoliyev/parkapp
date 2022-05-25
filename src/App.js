@@ -1,23 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './images/circle.png';
+import logo_blue from './images/logo_blue.png';
+import Shlang from "./images/shlang.png";
+import './Css/style.css';
+import Banner from './Components/Banner';
+import AboutUS from './Components/AboutUS';
+import Activity from './Components/Activity';
+import Expert from './Components/Expert';
+import Services from './Components/Services';
+import CarouselLine from './Components/CarouselLine';
+import Robot from './Components/Robot';
+import Partners from './Components/Partners';
+import Form from './Components/Form';
+import Formblock from './Components/Formblock';
 
+// const title_info = [
+//   {info: `Kompyuter savodxonligi`},
+//   {info: `Blender`},
+//   {info: `3Ds max & Autocad kurslari`},
+//   {info: `IT  dasturlash / Mobile dasturlash `},
+//   {info: `IT foundation`},
+//   {info: `Blogerlik `},
+//   {info: `Mexatronika`},
+//   {info: `Interyer dizayn`},
+//   {info: `Grafik Dizayn / Web dizayn`},
+//   {info: `Video montaj  / Moushn grafika `},
+//   {info: `Robototexnika kurslari  `},
+//   {info: `Lego Mindstorm (bolalar uchun)`},
+//   {info: `Aviasport bolalar uchun`},
+// ]
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Banner info="Samarqand viloyati yoshlar texnoparki" image2={Shlang}  image={logo_blue} button="zamonaviy  ilm  poydevori !" />
+      <AboutUS/>
+      <Activity/>
+      <Expert/>
+      <Services/>
+      <CarouselLine/>
+      <Robot/>
+      <Partners />
+      <Formblock/>
     </div>
   );
 }
