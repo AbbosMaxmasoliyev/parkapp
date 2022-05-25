@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/parkapp/static/css/main.e0f1cdb0.css",
+    "main.js": "/parkapp/static/js/main.759bc2ee.js",
+    "static/js/787.764bf42f.chunk.js": "/parkapp/static/js/787.764bf42f.chunk.js",
+    "static/media/back_image.png": "/parkapp/static/media/back_image.d93de031882ab4ffbe84.png",
+    "static/media/Background.png": "/parkapp/static/media/Background.9cf43cb823d77039d51a.png",
+    "static/media/carusel1.png": "/parkapp/static/media/carusel1.c373a797a4aad45c230d.png",
+    "static/media/carusel3.png": "/parkapp/static/media/carusel3.1c6d3e76376513c74d14.png",
+    "static/media/carusel2.png": "/parkapp/static/media/carusel2.ee960b721676d0020244.png",
+    "static/media/Technopark.png": "/parkapp/static/media/Technopark.8e9fa9d46d549cb219d8.png",
+    "static/media/Technopark2.png": "/parkapp/static/media/Technopark2.e41a55d7f30f33fbb96d.png",
+    "static/media/robot_vector.png": "/parkapp/static/media/robot_vector.cf094a500fed42466aa4.png",
+    "static/media/shlang.png": "/parkapp/static/media/shlang.93fef138f120cc239959.png",
+    "static/media/about3_1.png": "/parkapp/static/media/about3_1.ab17e3fa0a522d690743.png",
+    "static/media/Poppins-Regular.ttf": "/parkapp/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/circle.png": "/parkapp/static/media/circle.9e4d747f86f31a9f531f.png",
+    "static/media/mobile_robot.png": "/parkapp/static/media/mobile_robot.1de47ff252e418816dea.png",
+    "static/media/NunitoSans-Regular.ttf": "/parkapp/static/media/NunitoSans-Regular.a427ddbe4dc20889d6e0.ttf",
+    "static/media/expert_2.png": "/parkapp/static/media/expert_2.917384cea4c52eca19af.png",
+    "static/media/Manrope-Regular.ttf": "/parkapp/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "static/media/expert_1.png": "/parkapp/static/media/expert_1.ddb0f0ee565fbf6b6014.png",
+    "static/media/white_robot.png": "/parkapp/static/media/white_robot.3224475fbe9033c914f4.png",
+    "static/media/Righteous-Regular.ttf": "/parkapp/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "static/media/samdu.png": "/parkapp/static/media/samdu.dbe020a16cc28f8069c3.png",
+    "static/media/Orbitron-Regular.ttf": "/parkapp/static/media/Orbitron-Regular.3a886e4ff4044b4d554c.ttf",
+    "static/media/inno.png": "/parkapp/static/media/inno.9ca9e5e4181f44a9b1d3.png",
+    "static/media/yadro.png": "/parkapp/static/media/yadro.8f7e44fa6f5292316d06.png",
+    "static/media/trid.png": "/parkapp/static/media/trid.ebe237f6f1a3fb0e4fc1.png",
+    "static/media/bobur_pic.png": "/parkapp/static/media/bobur_pic.45b3db268233f442aa2a.png",
+    "static/media/trend.png": "/parkapp/static/media/trend.669df67d7dee26476494.png",
+    "static/media/beeline.png": "/parkapp/static/media/beeline.3742d62f6dc33051a8a1.png",
+    "index.html": "/parkapp/index.html",
+    "main.e0f1cdb0.css.map": "/parkapp/static/css/main.e0f1cdb0.css.map",
+    "main.759bc2ee.js.map": "/parkapp/static/js/main.759bc2ee.js.map",
+    "787.764bf42f.chunk.js.map": "/parkapp/static/js/787.764bf42f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f1cdb0.css",
+    "static/js/main.759bc2ee.js"
+  ]
+}
